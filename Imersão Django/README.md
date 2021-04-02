@@ -8,7 +8,7 @@ O <strong>Django</strong> é 100% Python, por isso, se você se sente pelo menos
 
 * <code>python -m venv myvenv</code> ⤵
 * <code>myvenv\Scripts\activate</code>
-* <code>pip install Django, gunicorn, django-heroku</code>
+* <code>pip install Django, gunicorn, django-heroku, django-pytest</code>
 * <code>heroku login</code>
 * <code>heroku apps:create 'nome do aplicativo'</code>
 * <code>git init</code>
